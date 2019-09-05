@@ -1,0 +1,37 @@
+{
+  "nav": {
+    "cars": {
+      "Aventador": {
+        "make": "Lamborgini"
+      },
+      "Beetle": {
+        "make": "Volkwagen"
+      },
+      "Focus": {
+        "make": "Ford"
+      }
+    },
+    "motorcycles": {
+      "Bonneville T120": {
+        "make": "Triumph"
+      },
+      "CB750 Four": {
+        "make": "Honda"
+      },
+      "ZX900 Ninja": {
+        "make": "Kawasaki"
+      }
+    },
+    "trucks": {
+      "F-150": {
+        "make": "Ford"
+      },
+      "Tundra": {
+        "make": "Toyota"
+      },
+      "Titan": {
+        "make": "Nissan"
+      }
+    }
+  }
+}
