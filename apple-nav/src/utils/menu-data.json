@@ -1,37 +1,55 @@
 {
   "nav": {
-    "cars": {
-      "Aventador": {
+    "cars": [
+      {
+        "id": 0,
+        "model": "Aventador",
         "make": "Lamborgini"
       },
-      "Beetle": {
+      {
+        "id": 1,
+        "model": "Beetle",
         "make": "Volkwagen"
       },
-      "Focus": {
+      {
+        "id": 2,
+        "model": "Focus",
         "make": "Ford"
       }
-    },
-    "motorcycles": {
-      "Bonneville T120": {
+    ],
+    "motorcycles": [
+      {
+        "id": 0,
+        "model": "Bonneville T120",
         "make": "Triumph"
       },
-      "CB750 Four": {
+      {
+        "id": 1,
+        "model": "CB750 Four",
         "make": "Honda"
       },
-      "ZX900 Ninja": {
+      {
+        "id": 2,
+        "model": "ZX900 Ninja",
         "make": "Kawasaki"
       }
-    },
-    "trucks": {
-      "F-150": {
+    ],
+    "trucks": [
+      {
+        "id": 0,
+        "model": "F-150",
         "make": "Ford"
       },
-      "Tundra": {
+      {
+        "id": 1,
+        "model": "Tundra",
         "make": "Toyota"
       },
-      "Titan": {
+      {
+        "id": 2,
+        "model": "Titan",
         "make": "Nissan"
       }
-    }
+    ]
   }
 }
